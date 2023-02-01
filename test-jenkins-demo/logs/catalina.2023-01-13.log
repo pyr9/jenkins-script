@@ -1,0 +1,73 @@
+13-Jan-2023 11:05:09.517 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess 从更新的字眼[file:/Users/panyurou/software/apache-tomcat-8.5.84/conf/tomcat-users.xml]重新加载内存用户数据库
+13-Jan-2023 11:05:39.595 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess 从更新的字眼[file:/Users/panyurou/software/apache-tomcat-8.5.84/conf/tomcat-users.xml]重新加载内存用户数据库
+13-Jan-2023 11:05:49.664 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess 从更新的字眼[file:/Users/panyurou/software/apache-tomcat-8.5.84/conf/tomcat-users.xml]重新加载内存用户数据库
+13-Jan-2023 11:06:09.723 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess 从更新的字眼[file:/Users/panyurou/software/apache-tomcat-8.5.84/conf/tomcat-users.xml]重新加载内存用户数据库
+13-Jan-2023 11:15:20.902 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+13-Jan-2023 11:15:20.911 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8888"]
+13-Jan-2023 11:15:20.931 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+13-Jan-2023 11:15:21.122 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8888"]
+13-Jan-2023 11:15:21.132 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8888"]
+13-Jan-2023 11:15:45.118 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.84
+13-Jan-2023 11:15:45.126 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 16 2022 13:34:24 UTC
+13-Jan-2023 11:15:45.126 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.84.0
+13-Jan-2023 11:15:45.126 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+13-Jan-2023 11:15:45.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.16
+13-Jan-2023 11:15:45.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              x86_64
+13-Jan-2023 11:15:45.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/jdk-14.0.1.jdk/Contents/Home
+13-Jan-2023 11:15:45.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    14.0.1+7
+13-Jan-2023 11:15:45.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+13-Jan-2023 11:15:45.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/panyurou/software/apache-tomcat-8.5.84
+13-Jan-2023 11:15:45.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/panyurou/software/apache-tomcat-8.5.84
+13-Jan-2023 11:15:45.141 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Jan-2023 11:15:45.142 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+13-Jan-2023 11:15:45.143 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+13-Jan-2023 11:15:45.143 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Jan-2023 11:15:45.143 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Jan-2023 11:15:45.143 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/panyurou/software/apache-tomcat-8.5.84/conf/logging.properties
+13-Jan-2023 11:15:45.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jan-2023 11:15:45.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+13-Jan-2023 11:15:45.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jan-2023 11:15:45.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Jan-2023 11:15:45.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+13-Jan-2023 11:15:45.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/panyurou/software/apache-tomcat-8.5.84
+13-Jan-2023 11:15:45.144 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/panyurou/software/apache-tomcat-8.5.84
+13-Jan-2023 11:15:45.145 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/panyurou/software/apache-tomcat-8.5.84/temp
+13-Jan-2023 11:15:45.145 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/panyurou/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+13-Jan-2023 11:15:45.302 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8888"]
+13-Jan-2023 11:15:45.370 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1076 ms
+13-Jan-2023 11:15:45.442 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+13-Jan-2023 11:15:45.443 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.84]
+13-Jan-2023 11:15:45.457 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/panyurou/software/apache-tomcat-8.5.84/webapps/docs]
+13-Jan-2023 11:15:45.920 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/docs]的部署已在[454]毫秒内完成
+13-Jan-2023 11:15:45.921 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/panyurou/software/apache-tomcat-8.5.84/webapps/manager]
+13-Jan-2023 11:15:46.048 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/manager]的部署已在[126]毫秒内完成
+13-Jan-2023 11:15:46.048 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/panyurou/software/apache-tomcat-8.5.84/webapps/examples]
+13-Jan-2023 11:15:46.498 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/examples]的部署已在[450]毫秒内完成
+13-Jan-2023 11:15:46.499 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/panyurou/software/apache-tomcat-8.5.84/webapps/ROOT]
+13-Jan-2023 11:15:46.530 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/ROOT]的部署已在[31]毫秒内完成
+13-Jan-2023 11:15:46.530 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/panyurou/software/apache-tomcat-8.5.84/webapps/host-manager]
+13-Jan-2023 11:15:46.563 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/host-manager]的部署已在[33]毫秒内完成
+13-Jan-2023 11:15:46.567 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8888"]
+13-Jan-2023 11:15:46.589 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1218 ms
+13-Jan-2023 11:16:20.156 信息 [http-nio-8888-exec-8] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/pyr.war]
+13-Jan-2023 11:16:20.383 警告 [http-nio-8888-exec-8] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:16:20.401 警告 [http-nio-8888-exec-8] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:16:21.710 信息 [http-nio-8888-exec-8] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jan-2023 11:16:21.822 信息 [http-nio-8888-exec-8] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/pyr.war]的部署已在[1,665]ms内完成
+13-Jan-2023 11:22:25.328 信息 [http-nio-8888-exec-7] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war]
+13-Jan-2023 11:22:25.496 警告 [http-nio-8888-exec-7] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:22:25.502 警告 [http-nio-8888-exec-7] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:22:26.653 信息 [http-nio-8888-exec-7] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jan-2023 11:22:26.710 信息 [http-nio-8888-exec-7] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war]的部署已在[1,381]ms内完成
+13-Jan-2023 11:30:41.590 信息 [http-nio-8888-exec-6] org.apache.catalina.startup.HostConfig.undeploy 正在取消部署上下文[/hello]
+13-Jan-2023 11:30:41.698 信息 [http-nio-8888-exec-6] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war]
+13-Jan-2023 11:30:41.935 警告 [http-nio-8888-exec-6] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:30:41.941 警告 [http-nio-8888-exec-6] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:30:43.129 信息 [http-nio-8888-exec-6] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jan-2023 11:30:43.222 信息 [http-nio-8888-exec-6] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war]的部署已在[1,521]ms内完成
+13-Jan-2023 11:40:47.346 信息 [http-nio-8888-exec-12] org.apache.catalina.startup.HostConfig.undeploy 正在取消部署上下文[/hello]
+13-Jan-2023 11:40:47.456 信息 [http-nio-8888-exec-11] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war]
+13-Jan-2023 11:40:47.668 警告 [http-nio-8888-exec-11] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:40:47.673 警告 [http-nio-8888-exec-11] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+13-Jan-2023 11:40:49.023 信息 [http-nio-8888-exec-11] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jan-2023 11:40:49.125 信息 [http-nio-8888-exec-11] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[/Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war]的部署已在[1,668]ms内完成

@@ -1,0 +1,29 @@
+13-Jan-2023 10:57:35.553 信息 [http-nio-8888-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:02:43.603 信息 [http-nio-8888-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:02:45.729 信息 [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:15:47.974 信息 [http-nio-8888-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Jan-2023 11:15:47.975 信息 [http-nio-8888-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+13-Jan-2023 11:15:47.992 信息 [http-nio-8888-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:15:50.568 信息 [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Jan-2023 11:15:50.568 信息 [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+13-Jan-2023 11:15:50.573 信息 [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:16:20.017 信息 [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:16:20.039 信息 [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/pyr'
+13-Jan-2023 11:16:20.039 信息 [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /Users/panyurou/software/apache-tomcat-8.5.84/webapps/pyr.war
+13-Jan-2023 11:20:51.093 信息 [http-nio-8888-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:22:25.210 信息 [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:22:25.229 信息 [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/hello'
+13-Jan-2023 11:22:25.229 信息 [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war
+13-Jan-2023 11:22:39.209 信息 [http-nio-8888-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:26:47.971 信息 [http-nio-8888-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:30:40.995 信息 [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:30:41.001 信息 [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:30:41.005 信息 [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/hello'
+13-Jan-2023 11:30:41.613 信息 [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/hello'
+13-Jan-2023 11:30:41.613 信息 [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war
+13-Jan-2023 11:30:52.111 信息 [http-nio-8888-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:40:46.753 信息 [http-nio-8888-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:40:46.758 信息 [http-nio-8888-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+13-Jan-2023 11:40:46.764 信息 [http-nio-8888-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/hello'
+13-Jan-2023 11:40:47.364 信息 [http-nio-8888-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/hello'
+13-Jan-2023 11:40:47.366 信息 [http-nio-8888-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /Users/panyurou/software/apache-tomcat-8.5.84/webapps/hello.war

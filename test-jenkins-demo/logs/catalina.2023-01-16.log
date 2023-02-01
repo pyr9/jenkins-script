@@ -1,0 +1,4 @@
+16-Jan-2023 11:26:36.245 信息 [Thread-1] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8888"]
+16-Jan-2023 11:26:36.486 信息 [Thread-1] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+16-Jan-2023 11:26:38.636 信息 [Thread-1] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8888"]
+16-Jan-2023 11:26:38.827 信息 [Thread-1] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8888"]
